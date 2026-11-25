@@ -1,0 +1,110 @@
+RESULTADOS DEL CUESTIONARIO: MÉTODOS is...()
+================================================
+Fecha y hora: 20/11/2026 18:57:04
+Nivel: Fácil
+Aciertos: 17/20
+Errores: 3
+Porcentaje: 85.0%
+
+DETALLE DE RESPUESTAS
+------------------------------------------------
+
+1. CORRECTA
+¿Qué método comprueba que todos los caracteres sean letras o números?
+Tu respuesta: isalnum()
+Respuesta correcta: isalnum()
+
+2. CORRECTA
+¿Qué devuelve '42'.isnumeric()?
+Tu respuesta: True
+Respuesta correcta: True
+
+3. CORRECTA
+¿Qué devuelve 'PYTHON'.isupper()?
+Tu respuesta: True
+Respuesta correcta: True
+
+4. CORRECTA
+¿Qué tipo de dato devuelve un método como isdigit()?
+Tu respuesta: bool
+Respuesta correcta: bool
+
+5. CORRECTA
+¿Qué devuelve '   '.isspace()?
+Tu respuesta: True
+Respuesta correcta: True
+
+6. CORRECTA
+¿Qué método comprueba si las letras de una cadena están en minúsculas?
+Tu respuesta: islower()
+Respuesta correcta: islower()
+
+7. INCORRECTA
+¿Qué método comprueba que todos los caracteres sean letras?
+Tu respuesta: isalnum()
+Respuesta correcta: isalpha()
+
+8. CORRECTA
+¿Qué devuelve 'A7'.isalpha()?
+Tu respuesta: False
+Respuesta correcta: False
+
+9. CORRECTA
+¿Qué devuelve 'A7'.isalnum()?
+Tu respuesta: True
+Respuesta correcta: True
+
+10. CORRECTA
+¿Qué devuelve ''.isalpha()?
+Tu respuesta: False
+Respuesta correcta: False
+
+11. CORRECTA
+¿Qué devuelve 'Hola'.isalpha()?
+Tu respuesta: True
+Respuesta correcta: True
+
+12. CORRECTA
+¿Qué devuelve 'Python'.isupper()?
+Tu respuesta: False
+Respuesta correcta: False
+
+13. INCORRECTA
+¿Qué devuelve 'usuario_1'.isalnum()?
+Tu respuesta: True
+Respuesta correcta: False
+
+14. CORRECTA
+¿Qué devuelve '  a  '.isspace()?
+Tu respuesta: False
+Respuesta correcta: False
+
+15. CORRECTA
+¿Qué método comprueba si una cadena contiene únicamente espacios en blanco?
+Tu respuesta: isspace()
+Respuesta correcta: isspace()
+
+16. CORRECTA
+¿Qué método comprueba si las letras de una cadena están en mayúsculas?
+Tu respuesta: isupper()
+Respuesta correcta: isupper()
+
+17. CORRECTA
+¿Qué devuelve 'python'.islower()?
+Tu respuesta: True
+Respuesta correcta: True
+
+18. CORRECTA
+¿Qué devuelve 'Python3'.isalnum()?
+Tu respuesta: True
+Respuesta correcta: True
+
+19. CORRECTA
+¿Qué devuelve '12345'.isdigit()?
+Tu respuesta: True
+Respuesta correcta: True
+
+20. INCORRECTA
+¿Qué devuelve 'Hola mundo'.isalpha()?
+Tu respuesta: True
+Respuesta correcta: False
